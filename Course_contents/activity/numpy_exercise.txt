@@ -1,0 +1,2 @@
+1.	Write a NumPy program to test whether none of the elements of a given array is zero.
+2.	Write a NumPy program to create an element-wise comparison (greater, greater_equal, less and less_equal) of two given arrays.
